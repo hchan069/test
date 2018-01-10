@@ -3,8 +3,6 @@
 int main()
 {
 <<<<<<< HEAD
-	std::cout << "hello git!" << std::endl;
-	return 1;
 =======
 	std::string name;
 	std::cout << "What is your name?" << std::endl;
